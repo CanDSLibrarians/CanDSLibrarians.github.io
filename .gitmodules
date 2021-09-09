@@ -1,3 +1,3 @@
-[submodule "dslibs/themes/terminal"]
-	path = dslibs/themes/terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
+#[submodule "dslibs/themes/terminal"]
+#	path = dslibs/themes/terminal
+#	url = https://github.com/panr/hugo-theme-terminal.git

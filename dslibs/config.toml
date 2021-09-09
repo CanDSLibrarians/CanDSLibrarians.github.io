@@ -47,7 +47,7 @@ theme = 'terminal'
   [languages.en]
     languageName = "English"
     title = "Canadian Digital Scholarship Librarians"
-    subtitle = "A homepage for DS Librarians in Canada"
+    subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
     copyright = ""
