@@ -12,15 +12,21 @@ We are taking a semi-structured approach to this event beginning with lightning 
 |Break|15 Min|
 |**11:30am - 1pm PST / 2:30 pm - 4pm EST** |Breakout sessions, 3 x 25 (minutes each on topics submitted and voted on by participants)|
 
+## CFP
 
-## How to participate
-
-Interested in submitting a lightning talk? Fill out this [form](https://forms.gle/aMaA3x35J1KjCCtJA)
+Interested in submitting a lightning talk? Fill out this [form](https://forms.gle/aMaA3x35J1KjCCtJA). Deadline for submissions is **Monday October 4, 2021**.
 
 Have an idea for a breakout topic? Add it to this [document](https://docs.google.com/spreadsheets/d/14HrcZlSJ82YQcTVlnyANVSuBHd7c6__KLsT4vPdMjhA/edit?usp=sharing)
+
+## Register
+
+Complete this [form](https://www.eventbrite.ca/e/canadian-digital-scholarship-libs-community-of-practice-annual-meeting-tickets-170482714388) to sign up. There is no charge to attend.
+
+
+## More Information
+
 
 Have any questions about this event? Email [canadiandslibs@gmail.com](mailto:canadiandslibs@gmail.com)
 
 Want to get involved with the DS CoP? [Join our Slack!](https://join.slack.com/t/digitalscholincanada/shared_invite/zt-ue43gysy-wAgpaDkoclcWKW1cQ1S~gw)
-
 
