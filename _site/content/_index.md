@@ -1,3 +1,6 @@
+
+![CDSLib 'Logo'](images/pipes.png)
+
 ## Fall 2021 Meetup
 
 The Canadian Digital Scholarship Community of Practice is hosting an inaugural annual meeting on **October 15th, 2021 from 10am - 1pm PST / 1pm - 4pm EST** in partnership with the [Access Library Conference](https://accessconference.ca/).
