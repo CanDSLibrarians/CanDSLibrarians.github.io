@@ -17,9 +17,16 @@ We are taking a semi-structured approach to this event beginning with lightning 
 
 ## CFP
 
-Interested in submitting a lightning talk? Fill out this [form](https://forms.gle/aMaA3x35J1KjCCtJA). Deadline for submissions is **Monday October 4, 2021**.
+Interested in submitting a lightning talk? 
 
-Have an idea for a breakout topic? Add it to this [document](https://docs.google.com/spreadsheets/d/14HrcZlSJ82YQcTVlnyANVSuBHd7c6__KLsT4vPdMjhA/edit?usp=sharing)
+We are hoping to leave this open-ended but we have a few prompts for you to consider:
+- Tell us about Digital Scholarship services at your institution! What's one thing that was a highlight or challenge of the past year for your service? How did your service develop and where do you see it going?
+-  What is Digital Scholarship in Canada? 
+- How does your work intersect with other colleagues in the library. 
+
+Please fill out this [form](https://forms.gle/aMaA3x35J1KjCCtJA) to submit your talk idea. Deadline for submissions is **Monday October 4, 2021**.
+
+We are also looking for feedback on the breakout topics. If you have an idea about what would make a good topic please add it to this [document](https://docs.google.com/spreadsheets/d/14HrcZlSJ82YQcTVlnyANVSuBHd7c6__KLsT4vPdMjhA/edit?usp=sharing).
 
 ## Register
 
