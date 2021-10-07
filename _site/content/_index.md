@@ -15,6 +15,20 @@ We are taking a semi-structured approach to this event beginning with lightning 
 |Break|15 Min|
 |**11:30am - 1pm PST / 2:30 pm - 4pm EST** |Breakout sessions, 3 x 25 (minutes each on topics submitted and voted on by participants)|
 
+## Lightning Talk Schedule
+
+|||
+|---|---|
+|Name| Title|
+|Chris Young | The pitfalls of seeing the world in 3D|
+|Lydia Zvyagintseva | I'm a Digital Scholarship Centre and I'm Okay: Analyzing Digital Scholarship Curriculum and Research Landscape |
+|Tim Ribaric | A Tale of Whoa, Carving Out a Digital Scholarship Service |
+|Peter Binkley | Rich Online Publications with Other Peoples' Images|
+|Kris Joseph | The Digital Scholarship Divide: Some Needs Assessment Findings |
+|Eka Grgurić | User Experience and Guerilla Support to kick off a service |
+
+<br/>
+
 ## CFP
 
 Interested in submitting a lightning talk? 
@@ -24,7 +38,7 @@ We are hoping to leave this open-ended but we have a few prompts for you to cons
 -  What is Digital Scholarship in Canada? 
 - How does your work intersect with other colleagues in the library. 
 
-Please fill out this [form](https://forms.gle/aMaA3x35J1KjCCtJA) to submit your talk idea. Deadline for submissions is **Monday October 4, 2021**.
+Please fill out this [form](https://forms.gle/aMaA3x35J1KjCCtJA) to submit your talk idea. Deadline for submissions is **Monday October 7, 2021**.
 
 We are also looking for feedback on the breakout topics. If you have an idea about what would make a good topic please add it to this [document](https://docs.google.com/spreadsheets/d/14HrcZlSJ82YQcTVlnyANVSuBHd7c6__KLsT4vPdMjhA/edit?usp=sharing).
 
