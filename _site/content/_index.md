@@ -26,24 +26,26 @@ We are taking a semi-structured approach to this event beginning with lightning 
 |Peter Binkley | Rich Online Publications with Other Peoples' Images|
 |Kris Joseph | The Digital Scholarship Divide: Some Needs Assessment Findings |
 |Eka Grgurić | User Experience and Guerilla Support to kick off a service |
-|Rebecca Downson & Joey Takeda|Where do we go from here? Incubating Digital Scholarship in the Library. |
-
-(Please email your slides to [canadiandslibs@gmail.com](mailto:canadiandslibs@gmail.com) if you'd like them linked here)
 
 <br/>
 
-## Breakout Discussions
+## CFP
 
-We are looking for **feedback** on the breakout topics. 
-If you have an idea about what would make a good topic please add it to this [document](https://docs.google.com/spreadsheets/d/14HrcZlSJ82YQcTVlnyANVSuBHd7c6__KLsT4vPdMjhA/edit?usp=sharing).
+Interested in submitting a lightning talk? 
 
-<br />
+We are hoping to leave this open-ended but we have a few prompts for you to consider:
+- Tell us about Digital Scholarship services at your institution! What's one thing that was a highlight or challenge of the past year for your service? How did your service develop and where do you see it going?
+-  What is Digital Scholarship in Canada? 
+- How does your work intersect with other colleagues in the library. 
+
+Please fill out this [form](https://forms.gle/aMaA3x35J1KjCCtJA) to submit your talk idea. Deadline for submissions is **Monday October 7, 2021**.
+
+We are also looking for feedback on the breakout topics. If you have an idea about what would make a good topic please add it to this [document](https://docs.google.com/spreadsheets/d/14HrcZlSJ82YQcTVlnyANVSuBHd7c6__KLsT4vPdMjhA/edit?usp=sharing).
 
 ## Register
 
 Complete this [form](https://www.eventbrite.ca/e/canadian-digital-scholarship-libs-community-of-practice-annual-meeting-tickets-170482714388) to sign up. There is no charge to attend.
 
-<br />
 
 ## More Information
 
