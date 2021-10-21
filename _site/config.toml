@@ -63,11 +63,11 @@ theme = 'terminal'
       logoText = "Canadian Digital Scholarship Librarians"
       logoHomeLink = "/"
 
-    #[languages.en.menu]
-    #  [[languages.en.menu.main]]
-    #    identifier = "about"
-    #    name = "About"
-    #    url = "/about"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "2021 Meetup"
+        name = "2021 Meetup"
+        url = "/2021_Meetup"
     #  [[languages.en.menu.main]]
     #    identifier = "showcase"
     #    name = "Showcase"
