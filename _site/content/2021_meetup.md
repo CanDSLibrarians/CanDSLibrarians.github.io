@@ -28,7 +28,7 @@ We are taking a semi-structured approach to this event beginning with lightning 
 |Chris Young | The pitfalls of seeing the world in 3D|[slides](https://github.com/CanDSLibrarians/2021_meetup/blob/main/presentations/01_Young_Lightning_Talk.pdf)|
 |Lydia Zvyagintseva | I'm a Digital Scholarship Centre and I'm Okay: Analyzing Digital Scholarship Curriculum and Research Landscape |[slides](https://github.com/CanDSLibrarians/2021_meetup/blob/main/presentations/02_Zvyagintseva_Lightning_Talk.pdf)|
 |Tim Ribaric | A Tale of Whoa, Carving Out a Digital Scholarship Service |[slides](https://github.com/CanDSLibrarians/2021_meetup/blob/main/presentations/03_Ribaric_Lightning_Talk.pdf)|
-|Kris Joseph | The Digital Scholarship Divide: Some Needs Assessment Findings |slides|
+|Kris Joseph | The Digital Scholarship Divide: Some Needs Assessment Findings |[slides](https://github.com/CanDSLibrarians/2021_meetup/blob/main/presentations/04_Joseph_Lightning_Talk.pdf)|
 |Eka Grgurić | User Experience and Guerilla Support to kick off a service |slides|
 |Rebecca Dowson & Joey Takeda|Where do we go from here? Incubating Digital Scholarship in the Library. |slides|
 
