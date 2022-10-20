@@ -5,17 +5,21 @@
 
 Welcome to the homepage of the informal Canadian Digital Scholarship Librarian Community of Practice. We have created this project to allow [#digitalscholarship](https://twitter.com/search?q=%23digitalscholarship) Librarians across Canada to have a place to share with one another.
 
-## Spring / Summer 2022 Meetups
+## Fall 2022 Meetup
 
-For the Spring Summer of 2022 we've scheduled a series of casual drop-in conversations on topics relevant to Digital Scholarhsip Librarians.
+The group will meet on **Friday November 25, from 10am - 1pm PST / 1PM - 4PM EST** 
 
-- Thursday March 3. 10am(PST)/1pm(EST) **Rebeccca Dowson** ([@reb_d](https://twitter.com/reb_d)) Digital Scholarship Librarian @ Simon Frasier will facilitate a discussion entitled: _Workshops, Events, and Marketing, Oh my! Programming a Digital Scholarship Space_
+We are looking for presenters for **Lightning Talks**. Please consider sharing some stories about what you've been working on, or how your organization delivers DS services. We are also looking for topics for **Breakout Discussions**.
 
-- Thursday April 7, 10am(PST)/1pm(EST) **Lydia Zvyagintseva** ([@lydia_zv](https://twitter.com/lydia_zv/)) Head, Digital Scholarship Services @ University of Alberta will facilitate a discussin entitled: _Working Together: Shared Research Infrastructure in the Time of Restructuring_
+### Register
 
-- Thursday June 9, 10am(PST)/1pm(EST) **Tim Ribaric** ([@elibtronic](https://twitter.com/elibtronic)) Digital Scholarship Librarian @ Brock University will facilitate a dicussion enttiled: _External v. Internal Funding: What is the role of grant support in DS life?_
+The event will be held over Zoom and there is no cost to attend. Please fill in the registration [form](https://forms.gle/PFJgmZLWnh4QWTGx8) to get the link.
 
-Sessions will about an hour long with plenty of time to discuss the posted topic and to chat with others. Interested? Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSdSNui6EaQZk7B3FY2z8ajNWfngdR0HetLsJ3dWb2JdmtO2sQ/viewform?usp=sf_link).
+### CFP
+
+Have an idea? Please fill in this [form](https://forms.gle/zGkPUTY8Fp5id32e8). Please submit your ideas by **Sunday November 13**. 
+
+Slides from presentations can be saved to the CanDSLibrarians GitHub Sites. Check out last year's [presentations](https://github.com/CanDSLibrarians/2021_meetup/tree/main/presentations) for more details.
 
 ## Now on Twitter
 
