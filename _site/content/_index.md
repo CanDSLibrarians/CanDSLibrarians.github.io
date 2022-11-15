@@ -9,17 +9,43 @@ Welcome to the homepage of the informal Canadian Digital Scholarship Librarian C
 
 The group will meet on **Friday November 25, from 10am - 1pm PST / 1PM - 4PM EST** 
 
-We are looking for presenters for **Lightning Talks**. Please consider sharing some stories about what you've been working on, or how your organization delivers DS services. We are also looking for topics for **Breakout Discussions**.
+### Schedule
 
-### Register
+|   |
+|---|
+|Welcome|
+|Lightning Talks: 1 - 7|
+|Break|
+|Lightning Talks: 8 -  12|
+|Breakout Discussions |
+|Au revoir|
 
-The event will be held over Zoom and there is no cost to attend. Please fill in the registration [form](https://forms.gle/PFJgmZLWnh4QWTGx8) to get the link.
 
-### CFP
+#### Breakout Discussion Topic Choices
 
-Have an idea? Please fill in this [form](https://forms.gle/zGkPUTY8Fp5id32e8). Please submit your ideas by **Sunday November 13**. 
+- New skills needed for Digital Scholarship Labs
+- Our roles in teaching technology
 
-Slides from presentations can be saved to the CanDSLibrarians GitHub Sites. Check out last year's [presentations](https://github.com/CanDSLibrarians/2021_meetup/tree/main/presentations) for more details.
+
+###  Lightning Talk Schedule
+
+|Title|Name|Slides|
+|---|---|---|
+|Reintroducing the Sherman Centre for Digital Scholarship| Veronica Litt - McMaster University| slides |
+|Developing “Lab” Model Services for the Fine Arts|Hanne Pearce - University of Alberta| slides |
+|Reviewing the SFU OA Fund|Ioana Liuta - Simon Frasier University| slides |
+|No space but virtual space| Tim Ribaric - Brock University  | slides |
+|The Beginning: Western Libraries & The DSC|Arielle VanderSchans - Western University| slides |
+|Beyond OJS: supporting scholarly journals collaboratively|Thomas Guignard - Library technology and open data consultant| slides |
+|Embedded Digital Scholarship Services: Experiences from Grant-Funded Research|Sean Luyk - University of Alberta| slides |
+|Updating the DHIL Digital Project Intake Process|Ali Moore - Simon Frasier University| slides |
+|YorkSpace Rehaul: Updating Policies and Procedures for York University's Institutional Repository|Priscilla Carmini - York University| slides |
+|Webarchives and Their Analysis: Niagara Region Covid-19 Crisis Communication|Fletcher Johnson - Brock University| slides |
+|TBA|TBA| slides |
+|omg wtf twitter|John Fink - McMaster University   | slides |
+
+(Please email your slides to [canadiandslibs@gmail.com](mailto:canadiandslibs@gmail.com) if you'd like them linked here)
+
 
 ## Now on Twitter
 
