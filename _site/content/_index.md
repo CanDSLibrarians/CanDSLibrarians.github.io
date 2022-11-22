@@ -38,10 +38,11 @@ The group will meet on **Friday November 25, from 10am - 1pm PST / 1PM - 4PM EST
 |The Beginning: Western Libraries & The DSC|Arielle VanderSchans - Western University| slides |
 |Beyond OJS: supporting scholarly journals collaboratively|Thomas Guignard - Library technology and open data consultant| slides |
 |Embedded Digital Scholarship Services: Experiences from Grant-Funded Research|Sean Luyk - University of Alberta| slides |
+|BREAK|
 |Updating the DHIL Digital Project Intake Process|Ali Moore - Simon Frasier University| slides |
 |YorkSpace Rehaul: Updating Policies and Procedures for York University's Institutional Repository|Priscilla Carmini - York University| slides |
 |Webarchives and Their Analysis: Niagara Region Covid-19 Crisis Communication|Fletcher Johnson - Brock University| slides |
-|TBA|TBA| slides |
+|Notes from the field: DS at UBC Library (c. 2022) |Jess Yao - University of British Columbia| slides |
 |omg wtf twitter|John Fink - McMaster University   | slides |
 
 (Please email your slides to [canadiandslibs@gmail.com](mailto:canadiandslibs@gmail.com) if you'd like them linked here)
