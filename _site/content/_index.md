@@ -33,11 +33,11 @@ Welcome to the homepage of the informal Canadian Digital Scholarship Librarian C
 |---|---|---|
 |Reintroducing the Sherman Centre for Digital Scholarship| Veronica Litt - McMaster University| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/01_Litt_Lightning_Talk.pdf) |
 |Developing “Lab” Model Services for the Fine Arts|Hanne Pearce - University of Alberta| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/02_Pearce_Lightning_Talk.pdf) |
-|Reviewing the SFU OA Fund|Ioana Liuta - Simon Frasier University| slides |
+|Reviewing the SFU OA Fund|Ioana Liuta - Simon Frasier University| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/03_Liuta_Lightning_Talk.pdf) |
 |No space but virtual space| Tim Ribaric - Brock University  | [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/04_Ribaric_Lightning_Talk.pdf) |
 |The Beginning: Western Libraries & The DSC|Arielle VanderSchans - Western University| slides |
 |Beyond OJS: supporting scholarly journals collaboratively|Thomas Guignard - Library technology and open data consultant| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/06_Guignard_Lightning_Talk.pdf) |
-|Embedded Digital Scholarship Services: Experiences from Grant-Funded Research|Sean Luyk - University of Alberta| slides |
+|Embedded Digital Scholarship Services: Experiences from Grant-Funded Research|Sean Luyk - University of Alberta| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/07_Luyk_Lightning_Talk.pdf) |
 |BREAK|
 |YorkSpace Rehaul: Updating Policies and Procedures for York University's Institutional Repository|Priscilla Carmini - York University| slides |
 |Webarchives and Their Analysis: Niagara Region Covid-19 Crisis Communication|Fletcher Johnson - Brock University| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/09_Johnson_Lightning_Talk.pdf) |
