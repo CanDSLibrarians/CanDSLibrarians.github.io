@@ -42,7 +42,7 @@ Welcome to the homepage of the informal Canadian Digital Scholarship Librarian C
 |YorkSpace Rehaul: Updating Policies and Procedures for York University's Institutional Repository|Priscilla Carmini - York University| slides |
 |Webarchives and Their Analysis: Niagara Region Covid-19 Crisis Communication|Fletcher Johnson - Brock University| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/09_Johnson_Lightning_Talk.pdf) |
 |Notes from the field: DS at UBC Library (c. 2022) |Jess Yao - University of British Columbia| slides |
-|omg wtf twitter|John Fink - McMaster University   | slides |
+|omg wtf twitter|John Fink - McMaster University   | [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/11_Fink_Lightning_Talk.pdf) |
 
 (Please email your slides to [canadiandslibs@gmail.com](mailto:canadiandslibs@gmail.com) if you'd like them linked here)
 
