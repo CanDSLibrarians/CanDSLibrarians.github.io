@@ -35,7 +35,7 @@ Welcome to the homepage of the informal Canadian Digital Scholarship Librarian C
 |Developing “Lab” Model Services for the Fine Arts|Hanne Pearce - University of Alberta| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/02_Pearce_Lightning_Talk.pdf) |
 |Reviewing the SFU OA Fund|Ioana Liuta - Simon Frasier University| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/03_Liuta_Lightning_Talk.pdf) |
 |No space but virtual space| Tim Ribaric - Brock University  | [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/04_Ribaric_Lightning_Talk.pdf) |
-|The Beginning: Western Libraries & The DSC|Arielle VanderSchans - Western University| slides |
+|The Beginning: Western Libraries & The DSC|Arielle VanderSchans - Western University| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/05_Vanderschans_Lightning_Talk.pdf) |
 |Beyond OJS: supporting scholarly journals collaboratively|Thomas Guignard - Library technology and open data consultant| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/06_Guignard_Lightning_Talk.pdf) |
 |Embedded Digital Scholarship Services: Experiences from Grant-Funded Research|Sean Luyk - University of Alberta| [slides](https://github.com/CanDSLibrarians/2022_meetup/blob/main/presentations/07_Luyk_Lightning_Talk.pdf) |
 |BREAK|
