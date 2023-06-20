@@ -19,7 +19,9 @@ Monthly meetups are an informal space for the community to gather and discuss to
 * July 26th - topic: navigating low capacity / resources
 * August 30th - topic: librarian / staff upskilling, making time for it
 * September 27th - topic: online harassment, doxxing of researchers, lack of support
+  
 (no meetup in October, Unconference instead!)
+
 * November 29th - topic: software policies
 
 Please join the slack site listed below or send us an email at canadiandslibs [at] gmail.com to get added to our new Google Group for Zoom connection information to the Meetups.
