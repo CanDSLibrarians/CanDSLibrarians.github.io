@@ -1,6 +1,6 @@
 ---
-title: "2021 Unconference Meetup"
-date: 2023-01-31T10:34:54-04:00
+title: "Fall 2022 Meetup"
+date: 2022-11-25
 draft: false
 ---
 

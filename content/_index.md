@@ -1,5 +1,5 @@
 
-![CDSLib 'Logo'](images/pipes.png)
+![CDSLib 'Logo'](/images/pipes.png)
 
 # Canadian DS Librarians
 
@@ -34,7 +34,4 @@ Reach out at canadiandslibs@gmail.com or [Join our Slack channel](https://join.s
 
 <br/>
 <br/>
-
-----
-Want to get involved with the DS CoP? [Join our Slack!](https://join.slack.com/t/digitalscholincanada/shared_invite/zt-ue43gysy-wAgpaDkoclcWKW1cQ1S~gw)
 
