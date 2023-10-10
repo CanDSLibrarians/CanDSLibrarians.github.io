@@ -61,4 +61,3 @@ theme = 'terminal'
 
     [languages.en.params.logo]
       logoText = "Canadian Digital Scholarship Librarians"
-      logoHomeLink = "/"
