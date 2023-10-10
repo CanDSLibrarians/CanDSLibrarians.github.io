@@ -12,7 +12,8 @@ theme = 'terminal'
   themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  # Removed 2023-11: No longer applicable with menu override
+  #showMenuItems = 2
 
   # show selector to switch language
   showLanguageSelector = false

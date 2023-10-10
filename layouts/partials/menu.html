@@ -1,11 +1,14 @@
+<!-- Menu override to allow for by Section menu items -->
 <nav class="navigation-menu">
   <ul class="navigation-menu__inner menu--desktop">
+    <!--Group by Sections -->
       {{ range $.Site.RegularPages.GroupBy "Section" }}
           <li>
             <ul class="menu">
                 <li class="menu__trigger">{{ humanize .Key }} &nbsp;▾</li>
                 <li>
                     <ul class="menu__dropdown">
+                        <!-- And then iterate through pages by date (reverse) -->
                         {{ range .Pages.ByDate.Reverse }}
                          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
                         {{ end }}
