@@ -1,5 +1,5 @@
 
-![CDSLib 'Logo'](/images/pipes.png)
+![CDSLib 'Logo'](images/pipes.png)
 
 # Canadian DS Librarians
 
