@@ -16,17 +16,24 @@ All of the website's content lives in the `content` directory, which is structur
 
 These folders dictate the categories for the top navigation dropdown menu.
 
-Each page should contain a YAML header that, at minimum, specifies a title, the date originally authored/published, and a draft flag:
+Each page is a Markdown file, which should contain a YAML header that, at minimum, specifies a title, the date originally authored/published, and a draft flag:
 
 ```yaml
 ---
-title: "Fall 2021 Meetup"
-date: 2021-10-21T10:34:54-04:00
-draft: false
----
-```
+# This is the main title for the page 
+# (both rendered and in metadata)
+title: "Fall 2021 Meetup" 
 
-(where setting `draft: true` will prevent that page from being rendered on the live site)
+# An ISO-8601 date 
+# (YYYY-MM-DD and YYYY-MM-DD:THH:MM:SS 
+# are also valid)
+date: 2021-10-21T10:34:54-04:00 
+
+# Set to true to prevent page from
+# rendering on the live site
+draft: false 
+---
+``` 
 
 
 ### Google Sheets
