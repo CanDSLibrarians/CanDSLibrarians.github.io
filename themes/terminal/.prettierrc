@@ -2,7 +2,6 @@
   "parser": "babel",
   "printWidth": 100,
   "trailingComma": "all",
-  "arrowParens": "avoid",
   "overrides": [{
     "files": ".html",
     "options": {
